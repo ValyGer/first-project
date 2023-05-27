@@ -16,7 +16,8 @@ class Convert {
 
         System.out.println("Сколько дней до зарплаты?");
         int daysBeforeSalary = scanner.nextInt();
-
+        System.out.println("как работа?");
+        
         while (true) {
             System.out.println("Что вы хотите сделать?");
             System.out.println("1 - Конвертировать валюту");
