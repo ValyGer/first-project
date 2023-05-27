@@ -6,4 +6,6 @@ class Main {
     public static void main(String[] args) {
        
         System.out.println("Сколько денег у вас осталось до зарплаты?");
+        System.out.println("Приблизительно достаточно");
+        
     }
